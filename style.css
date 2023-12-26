@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+img{
+    border: 5px solid whitesmoke;
+    width: 100%;
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+    color: whitesmoke; 
+    text-transform: uppercase;
+}
+.poster{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 100px;
+}
+p{
+    color: whitesmoke;
+}
